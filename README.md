@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -71,4 +71,4 @@
         <a href="#" class="btn">¡claro que si, muak!</a>
     </div>
 </body>
-</html
+
